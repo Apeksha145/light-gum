@@ -124,6 +124,7 @@ h2:hover{color:darkgrey;}
 	.blog-img{padding:15px;background-color:#d3d3d342;margin-left:auto;margin-right:auto;}
 	.contct{padding-top:15px;}
 	.navbar.affix {height:0;}
+	.navbar{padding:0px 30px 0px 30px;}
 	}
 @media only screen and (max-device-width:2560px) and (min-device-width:768px){
 	.sidenav{display:none;}	
